@@ -19,6 +19,9 @@
 
     - Are proxies without authorization supported ?
     No.
+    
+    - Are threads supported ?
+    Yes.
 
 
 
