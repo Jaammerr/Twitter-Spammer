@@ -1,7 +1,3 @@
-
-[![1814-oooo-plus.png](https://i.postimg.cc/k5qGZT7y/1814-oooo-plus.png)](https://postimg.cc/yDp73XgJ)
-
-
 # Twitter Message Spammer
 
 ## General information:
