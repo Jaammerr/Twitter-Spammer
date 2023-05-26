@@ -1,0 +1,6 @@
+loguru
+pySpintax
+pyuseragents
+requests
+colorama
+inquirer
